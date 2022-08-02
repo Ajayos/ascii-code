@@ -148,7 +148,7 @@
 | 121 |  171 |  79 |  01111001 |  y |  &amp;#121; |  &nbsp; |  Lowercase y |  
 | 122 |  172 |  7A |  01111010 |  z |  &amp;#122; |  &nbsp; |  Lowercase z |  
 | 123 |  173 |  7B |  01111011 |  { |  &amp;#123; |  &nbsp; |  Opening brace |  
-| 124 |  174 |  7C |  01111100 |  | |  &amp;#124; |  &nbsp; |  Vertical bar |  
+| 124 |  174 |  7C |  01111100 |  | |  &amp;#124; | |  &nbsp; |  Vertical bar |  
 | 125 |  175 |  7D |  01111101 |  } |  &amp;#125; |  &nbsp; |  Closing brace |  
 | 126 |  176 |  7E |  01111110 |  ~ |  &amp;#126; |  &nbsp; |  Equivalency sign - tilde |  
 | 127 |  177 |  7F |  01111111 |   |  &amp;#127; |  &nbsp; |  Delete |  
@@ -287,5 +287,9 @@
 | 254 | 376 | FE | 11111110 | þ | &amp;#254; | &amp;thorn; | Latin small letter thorn | 
 | 255 | 377 | FF | 11111111 | ÿ | &amp;#255; | &amp;yuml; | Latin small letter y with diaeresis | 
 
+
+<div align="center">
+
 Copyright © 2022  [**Ajay o s**](https://github.com/Ajay-o-s), All Rights Reserved.
-## Made by [Ajay os](https://github.ajay-o-s.me) With 💖
+
+</div>
